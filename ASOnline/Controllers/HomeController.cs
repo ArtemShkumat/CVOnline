@@ -15,7 +15,7 @@ namespace ASOnline.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "This is what it's all about";
 
             return View();
         }
