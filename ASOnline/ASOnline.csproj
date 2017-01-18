@@ -210,6 +210,23 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Templates\css\animate.min.css" />
+    <Content Include="Content\Templates\css\bootstrap.min.css" />
+    <Content Include="Content\Templates\css\font-awesome.css" />
+    <Content Include="Content\Templates\css\font-awesome.min.css" />
+    <Content Include="Content\Templates\css\main.css" />
+    <Content Include="Content\Templates\css\prettyPhoto.css" />
+    <Content Include="Content\Templates\css\responsive.css" />
+    <Content Include="Content\Templates\fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\Templates\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\Templates\js\bootstrap.min.js" />
+    <Content Include="Content\Templates\js\html5shiv.js" />
+    <Content Include="Content\Templates\js\jquery.isotope.min.js" />
+    <Content Include="Content\Templates\js\jquery.js" />
+    <Content Include="Content\Templates\js\jquery.prettyPhoto.js" />
+    <Content Include="Content\Templates\js\main.js" />
+    <Content Include="Content\Templates\js\respond.min.js" />
+    <Content Include="Content\Templates\js\wow.min.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -221,17 +238,29 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\Templates\fonts\fontawesome-webfont.eot" />
+    <Content Include="Content\Templates\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Content\Templates\fonts\fontawesome-webfont.woff" />
+    <Content Include="Content\Templates\fonts\FontAwesome.otf" />
+    <Content Include="Content\Templates\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\Templates\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\Templates\fonts\glyphicons-halflings-regular.woff" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\html5shiv.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.isotope.min.js" />
+    <Content Include="Scripts\jquery.prettyPhoto.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\main.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\wow.min.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
